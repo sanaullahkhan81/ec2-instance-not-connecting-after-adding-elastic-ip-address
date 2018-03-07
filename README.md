@@ -11,6 +11,7 @@ Follow this tutorial to fix first.
     ```ssh-keygen -R ec2-xx-xx-xx-xx.eu-west-2.compute.amazonaws.com```
     
 2. Go to the root directory where you have saved you keypair and run below command
+
     ```chmod 600 yourkeypair.pem```
     
   
